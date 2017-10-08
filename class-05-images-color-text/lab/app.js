@@ -92,7 +92,7 @@ Test this function by hand in the console to get it working, and when you think 
 var testArray = [2,3,4]; //eslint-disable-line
 
 function sumArray(testArray){ //eslint-disable-line
-
+lsdnlfndsl
 }
 
 // TODO: Here is the test for sumArray(); uncomment it to run it
